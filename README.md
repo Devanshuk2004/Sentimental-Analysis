@@ -74,19 +74,6 @@ This project analyzes public sentiments expressed in comments on a significant i
 
 This project successfully analyzed public sentiment on the Putin-Carlson interview, providing insights through both exploratory analysis and predictive modeling. Linear Regression emerged as the most effective model, offering the highest accuracy in sentiment prediction.
 
-## Future Work
 
-- Explore additional feature engineering techniques to enhance model performance.
-- Experiment with advanced machine learning models such as ensemble methods.
-- Extend the analysis to include temporal changes in sentiment over time.
 
-## Repository Structure
 
-```plaintext
-├── data/
-│   ├── raw/                 # Raw data files
-│   ├── processed/           # Processed data files
-├── notebooks/               # Jupyter notebooks for analysis
-├── src/                     # Source code for data processing and modeling
-├── reports/                 # Generated analysis and model performance reports
-└── README.md                # Project overview and instructions
